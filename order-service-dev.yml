@@ -14,4 +14,4 @@ feign:
   hystrix:
     enabled: true
     
-num: 100
+num: 150
