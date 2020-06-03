@@ -15,4 +15,4 @@ eureka:
       defaultZone: http://127.0.0.1:8888/eureka
 
 test:
-  number: 1000
+  number: 2000
