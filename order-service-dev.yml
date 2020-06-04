@@ -31,4 +31,4 @@ eureka:
       defaultZone: http://127.0.0.1:8888/eureka
 
 test:
-  number: 666
+  number: 888
